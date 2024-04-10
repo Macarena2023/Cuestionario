@@ -1,8 +1,12 @@
 # Cuestionario
 1- Nombres y Apellidos.
+
 - Vargas Elias Chaile.
+- 
 - Rodriguez Arrieta Ayelen Macarena.
+- 
 2- Edades.
+  
   17 años.
 3- Celular.
   Macarena: 3515112416
